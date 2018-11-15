@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <ArrayOfMarket xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Market>
-    <currentAmount>864</currentAmount>
-    <buyers>8</buyers>
+    <currentAmount>0</currentAmount>
+    <buyers>4</buyers>
     <productsSet>
       <Product>
         <name>1</name>
@@ -20,49 +20,85 @@
         <name>3</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>76</number>
+        <number>100</number>
       </Product>
       <Product>
         <name>4</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>76</number>
+        <number>100</number>
       </Product>
       <Product>
         <name>5</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>76</number>
+        <number>100</number>
       </Product>
     </productsSet>
   </Market>
   <Market>
-    <currentAmount>0</currentAmount>
-    <buyers>65</buyers>
+    <currentAmount>360</currentAmount>
+    <buyers>24</buyers>
     <productsSet>
       <Product>
         <name>1</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>96</number>
+        <number>268</number>
       </Product>
       <Product>
         <name>2</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>356</number>
+        <number>34</number>
       </Product>
       <Product>
         <name>3</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>251</number>
+        <number>76</number>
       </Product>
       <Product>
         <name>4</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>-57</number>
+        <number>86</number>
+      </Product>
+      <Product>
+        <name>5</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>34</number>
+      </Product>
+    </productsSet>
+  </Market>
+  <Market>
+    <currentAmount>296</currentAmount>
+    <buyers>15</buyers>
+    <productsSet>
+      <Product>
+        <name>1</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>556</number>
+      </Product>
+      <Product>
+        <name>2</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>-20</number>
+      </Product>
+      <Product>
+        <name>3</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>23</number>
+      </Product>
+      <Product>
+        <name>4</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>32</number>
       </Product>
       <Product>
         <name>5</name>
@@ -73,146 +109,254 @@
     </productsSet>
   </Market>
   <Market>
-    <currentAmount>4794</currentAmount>
-    <buyers>112</buyers>
+    <currentAmount>3224</currentAmount>
+    <buyers>26</buyers>
     <productsSet>
       <Product>
         <name>1</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>100</number>
+        <number>757</number>
       </Product>
       <Product>
         <name>2</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>73</number>
+        <number>-83</number>
       </Product>
       <Product>
         <name>3</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>-36</number>
+        <number>-79</number>
       </Product>
       <Product>
         <name>4</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>635</number>
+        <number>-75</number>
       </Product>
       <Product>
         <name>5</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>-353</number>
+        <number>-158</number>
       </Product>
     </productsSet>
   </Market>
   <Market>
-    <currentAmount>6376</currentAmount>
-    <buyers>45</buyers>
+    <currentAmount>1190</currentAmount>
+    <buyers>41</buyers>
     <productsSet>
       <Product>
         <name>1</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>761</number>
+        <number>1247</number>
       </Product>
       <Product>
         <name>2</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>-29</number>
+        <number>189</number>
       </Product>
       <Product>
         <name>3</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>-241</number>
+        <number>-200</number>
       </Product>
       <Product>
         <name>4</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>458</number>
+        <number>-230</number>
       </Product>
       <Product>
         <name>5</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>-536</number>
+        <number>-321</number>
       </Product>
     </productsSet>
   </Market>
   <Market>
-    <currentAmount>3272</currentAmount>
-    <buyers>24</buyers>
+    <currentAmount>2</currentAmount>
+    <buyers>27</buyers>
     <productsSet>
       <Product>
         <name>1</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>1423</number>
+        <number>1464</number>
       </Product>
       <Product>
         <name>2</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>-94</number>
+        <number>298</number>
       </Product>
       <Product>
         <name>3</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>-309</number>
+        <number>-246</number>
       </Product>
       <Product>
         <name>4</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>370</number>
+        <number>-281</number>
       </Product>
       <Product>
         <name>5</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>-602</number>
+        <number>-381</number>
       </Product>
     </productsSet>
   </Market>
   <Market>
-    <currentAmount>1948</currentAmount>
-    <buyers>21</buyers>
+    <currentAmount>2576</currentAmount>
+    <buyers>34</buyers>
     <productsSet>
       <Product>
         <name>1</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>1994</number>
+        <number>1460</number>
       </Product>
       <Product>
         <name>2</name>
-        <price>12</price>
-        <purchasePrice>10</purchasePrice>
-        <number>-153</number>
-      </Product>
-      <Product>
-        <name>3</name>
-        <price>12</price>
-        <purchasePrice>10</purchasePrice>
-        <number>-376</number>
-      </Product>
-      <Product>
-        <name>4</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
         <number>258</number>
       </Product>
       <Product>
+        <name>3</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>-293</number>
+      </Product>
+      <Product>
+        <name>4</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>-336</number>
+      </Product>
+      <Product>
         <name>5</name>
         <price>12</price>
         <purchasePrice>10</purchasePrice>
-        <number>-716</number>
+        <number>-440</number>
+      </Product>
+    </productsSet>
+  </Market>
+  <Market>
+    <currentAmount>7950</currentAmount>
+    <buyers>74</buyers>
+    <productsSet>
+      <Product>
+        <name>1</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>1534</number>
+      </Product>
+      <Product>
+        <name>2</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>335</number>
+      </Product>
+      <Product>
+        <name>3</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>-452</number>
+      </Product>
+      <Product>
+        <name>4</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>-528</number>
+      </Product>
+      <Product>
+        <name>5</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>-619</number>
+      </Product>
+    </productsSet>
+  </Market>
+  <Market>
+    <currentAmount>4396</currentAmount>
+    <buyers>52</buyers>
+    <productsSet>
+      <Product>
+        <name>1</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>1641</number>
+      </Product>
+      <Product>
+        <name>2</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>1051</number>
+      </Product>
+      <Product>
+        <name>3</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>-557</number>
+      </Product>
+      <Product>
+        <name>4</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>-645</number>
+      </Product>
+      <Product>
+        <name>5</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>-745</number>
+      </Product>
+    </productsSet>
+  </Market>
+  <Market>
+    <currentAmount>488</currentAmount>
+    <buyers>54</buyers>
+    <productsSet>
+      <Product>
+        <name>1</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>1796</number>
+      </Product>
+      <Product>
+        <name>2</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>1226</number>
+      </Product>
+      <Product>
+        <name>3</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>-94</number>
+      </Product>
+      <Product>
+        <name>4</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>-774</number>
+      </Product>
+      <Product>
+        <name>5</name>
+        <price>12</price>
+        <purchasePrice>10</purchasePrice>
+        <number>-894</number>
       </Product>
     </productsSet>
   </Market>
