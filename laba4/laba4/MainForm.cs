@@ -50,19 +50,15 @@ namespace laba4
         }
         private void saveFileButton_Click(object sender, EventArgs e)
         {
-            try
-            {
-                StreamWriter streamWriter = new StreamWriter(File.Create(@"../../" + Path.GetFileNameWithoutExtension(fileName) + ".out"));
-                streamWriter.WriteLine(count.ToString());
-                streamReader.Close();
-                streamWriter.Close();
-            }
-            catch (NullReferenceException) { }
+            StreamWriter streamWriter = new StreamWriter(File.Create(@"../../" + Path.GetFileNameWithoutExtension(fileName) + ".out"));
+            streamWriter.WriteLine(count.ToString());
+            if (streamReader != null) streamReader.Close();
+            streamWriter.Close();
         }
         private void saveAsButton_Click(object sender, EventArgs e)
         {
             saveFileDialog.ShowDialog();
-            streamReader.Close();
+            if (streamReader!=null)streamReader.Close();
         }
         private void createRandomFileButton_Click(object sender, EventArgs e)
         {
