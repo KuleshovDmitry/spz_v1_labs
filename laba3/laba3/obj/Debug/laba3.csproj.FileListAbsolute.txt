@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\laba3\laba3\obj\Debug\laba3.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\laba3\laba3\obj\Debug\laba3.Properties.Resources.resources
+C:\Users\admin\source\repos\laba3\laba3\obj\Debug\laba3.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\laba3\laba3\obj\Debug\laba3.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\laba3\laba3\bin\Debug\laba3.exe.config
+C:\Users\admin\source\repos\laba3\laba3\bin\Debug\laba3.exe
+C:\Users\admin\source\repos\laba3\laba3\bin\Debug\laba3.pdb
+C:\Users\admin\source\repos\laba3\laba3\obj\Debug\laba3.exe
+C:\Users\admin\source\repos\laba3\laba3\obj\Debug\laba3.pdb
+C:\Users\admin\source\repos\laba3\laba3\obj\Debug\laba3.AddDevice.resources
+C:\Users\admin\source\repos\laba3\laba3\obj\Debug\laba3.ChangeDriver.resources
+C:\Users\admin\source\repos\laba3\laba3\obj\Debug\laba3.DriversCompare.resources
+C:\Users\admin\source\repos\laba3\laba3\obj\Debug\laba3.MainForm.resources
