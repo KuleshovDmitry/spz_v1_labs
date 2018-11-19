@@ -20,12 +20,14 @@ namespace Laba7
 
         private void OkBbutton_Click(object sender, EventArgs e)
         {
-            Controller.Controller.InsertLecturer(int.Parse(idTextBox.Text),
-                firstNameTextBox.Text, lastNameTextBox.Text);
-            DialogResult = DialogResult.OK;
-            Close();
+            if (Controller.Controller.InsertLecturer(int.Parse(idTextBox.Text),
+                firstNameTextBox.Text, lastNameTextBox.Text))
+            {
+                DialogResult = DialogResult.OK;
+                Close();
+            }
+            else MessageBox.Show("Неудачная операция");
         }
-
         private void censleButton_Click(object sender, EventArgs e)
         {
             Close();

@@ -12,3 +12,17 @@ C:\Users\admin\source\Laba7\Laba7\obj\Debug\Laba7.exe
 C:\Users\admin\source\Laba7\Laba7\obj\Debug\Laba7.pdb
 C:\Users\admin\source\Laba7\Laba7\obj\Debug\Laba7.AddLecturerForm.resources
 C:\Users\admin\source\Laba7\Laba7\obj\Debug\Laba7.AddDisciplineForm.resources
+C:\Users\admin\source\repos\spz_v1_labs\Laba7\Laba7\bin\Debug\Model\Laba7DB.mdf
+C:\Users\admin\source\repos\spz_v1_labs\Laba7\Laba7\bin\Debug\Model\Laba7DB_log.ldf
+C:\Users\admin\source\repos\spz_v1_labs\Laba7\Laba7\bin\Debug\Laba7.exe.config
+C:\Users\admin\source\repos\spz_v1_labs\Laba7\Laba7\bin\Debug\Laba7.exe
+C:\Users\admin\source\repos\spz_v1_labs\Laba7\Laba7\bin\Debug\Laba7.pdb
+C:\Users\admin\source\repos\spz_v1_labs\Laba7\Laba7\obj\Debug\Laba7.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\spz_v1_labs\Laba7\Laba7\obj\Debug\Laba7.AddDisciplineForm.resources
+C:\Users\admin\source\repos\spz_v1_labs\Laba7\Laba7\obj\Debug\Laba7.AddLecturerForm.resources
+C:\Users\admin\source\repos\spz_v1_labs\Laba7\Laba7\obj\Debug\Laba7.MainForm.resources
+C:\Users\admin\source\repos\spz_v1_labs\Laba7\Laba7\obj\Debug\Laba7.Properties.Resources.resources
+C:\Users\admin\source\repos\spz_v1_labs\Laba7\Laba7\obj\Debug\Laba7.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\spz_v1_labs\Laba7\Laba7\obj\Debug\Laba7.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\spz_v1_labs\Laba7\Laba7\obj\Debug\Laba7.exe
+C:\Users\admin\source\repos\spz_v1_labs\Laba7\Laba7\obj\Debug\Laba7.pdb
