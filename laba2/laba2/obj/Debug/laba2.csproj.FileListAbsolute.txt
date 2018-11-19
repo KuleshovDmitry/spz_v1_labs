@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\laba2\laba2\bin\Debug\laba2.exe.config
+C:\Users\admin\source\repos\laba2\laba2\bin\Debug\laba2.exe
+C:\Users\admin\source\repos\laba2\laba2\bin\Debug\laba2.pdb
+C:\Users\admin\source\repos\laba2\laba2\obj\Debug\laba2.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\laba2\laba2\obj\Debug\laba2.Properties.Resources.resources
+C:\Users\admin\source\repos\laba2\laba2\obj\Debug\laba2.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\laba2\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\laba2\laba2\obj\Debug\laba2.exe
+C:\Users\admin\source\repos\laba2\laba2\obj\Debug\laba2.pdb
+C:\Users\admin\source\repos\laba2\laba2\obj\Debug\laba2.MainForm.resources
